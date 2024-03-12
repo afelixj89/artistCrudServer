@@ -1,0 +1,223 @@
+
+[
+    {
+        
+        "format": "12\"",
+        "catno": "MET 002",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/5506",
+        "title": "Psychosis / Represent",
+        "id": 5506,
+        "year": 1994,
+        "artists": ["DJ Peshay"]
+    },
+    {
+        
+        "format": "12\", TP, W/Lbl",
+        "catno": "MET 002",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/1979353",
+        "title": "Psychosis / Represent",
+        "id": 1979353,
+        "year": 1994,
+        "artists": ["DJ Peshay"]
+    },
+    {
+        
+        "format": "12\"",
+        "catno": "MET 003",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/5507",
+        "title": "Fresh Jive / Basic Principles / I Need Your Love",
+        "id": 5507,
+        "year": 1994,
+        "artists": ["Alex Reece"]
+    },
+    {
+        
+        "format": "12\", Promo, W/Lbl",
+        "catno": "MET 004",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/1152882",
+        "title": "Far Away / It's Yours",
+        "id": 1152882,
+        "year": 1994,
+        "artists": ["Doc Scott"]
+    },
+    {
+        
+        "format": "12\", Promo, W/Lbl, Sti",
+        "catno": "MET 004",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/10429915",
+        "title": "Far Away / It's Yours",
+        "id": 10429915,
+        "year": 1994,
+        "artists": ["Doc Scott"]
+    },
+    {
+        
+        "format": "12\", Promo, W/Lbl",
+        "catno": "MET 005",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/1152890",
+        "title": "Kid Caprice / The Rise",
+        "id": 1152890,
+        "year": 1994,
+        "artists": ["Wax Doctor"]
+    },
+    {
+        
+        "format": "12\", W/Lbl",
+        "catno": "MH 001",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/5630429",
+        "title": "Unreleased Metal",
+        "id": 5630429,
+        "year": 1994,
+        "artists": ["Doc Scott", "Goldie"]
+    },
+    {
+        
+        "format": "12\", Ltd",
+        "catno": "MH 001",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/5505",
+        "title": "Unreleased Metal",
+        "id": 5505,
+        "year": 1994,
+        "artists": ["Doc Scott", "Goldie"]
+    },
+    {
+        
+        "format": "Acetate, 10\"",
+        "catno": "none ",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/10659150",
+        "title": "Fury The Origin / Rage ",
+        "id": 10659150,
+        "year": 1994,
+        "artists": ["Doc Scott", "Goldie"]
+    },
+    {
+        
+        "format": "Acetate, 10\", Sti",
+        "catno": "none ",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/10811555",
+        "title": "It's Yours / Hand Of The Dead Body",
+        "id": 10811555,
+        "year": 1994,
+        "artists": ["Doc Scott", "Scarface (3)"]
+    },
+    {
+        
+        "format": "12\"",
+        "catno": "MET 003R, 003R",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/5508",
+        "title": "Basic Principles (Remixes)",
+        "id": 5508,
+        "year": 1995,
+        "artists": ["Alex Reese"]
+    },
+    {
+        
+        "format": "12\"",
+        "catno": "005, MET 005",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/5510",
+        "title": "Kid Capprice / The Rise",
+        "id": 5510,
+        "year": 1995,
+        "artists": ["Wax Doctor"]
+    },
+    {
+        
+        "format": "12\"",
+        "catno": "MET 006, 006",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/5512",
+        "title": "The Angels Fell",
+        "id": 5512,
+        "year": 1995,
+        "artists": ["Dillinja"]
+    },
+    {
+        
+        "format": "12\"",
+        "catno": "007",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/5511",
+        "title": "Your Sound / Tranquil",
+        "id": 5511,
+        "year": 1995,
+        "artists": ["J.Majik"]
+    },
+    {
+        
+        "format": "12\", Promo, TP, W/Lbl",
+        "catno": "00DARK",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/10093578",
+        "title": "Stepin'Hard / Desire / Da Base II Dark",
+        "id": 10093578,
+        "year": 1995,
+        "artists": ["Asylum (9)"]
+    },
+    {
+        
+        "format": "12\"",
+        "catno": "00DARK",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/5513",
+        "title": "Stepin'Hard / Desire / Da Base II Dark",
+        "id": 5513,
+        "year": 1995,
+        "artists": ["Asylum (9)"]
+    },
+    {
+        
+        "format": "CD, Album",
+        "catno": "3984282112",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/4438301",
+        "title": "Timeless",
+        "id": 4438301,
+        "year": 1995,
+        "artists": ["Goldie"]
+    },
+    {
+        
+        "format": "2xCD, Album, Ltd",
+        "catno": "828 614-2",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/3182540",
+        "title": "Timeless",
+        "id": 3182540,
+        "year": 1995,
+        "artists": ["Goldie"]
+    },
+    {
+        
+        "format": "CD, Album, Ltd",
+        "catno": "828 614-2",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/14837415",
+        "title": "Timeless",
+        "id": 14837415,
+        "year": 1995,
+        "artists": ["Goldie"]
+    },
+    {
+        
+        "format": "2xCass, Album, Ltd",
+        "catno": "828 614-4",
+        "label": "Metalheadz",
+        "resource_url": "https://api.discogs.com/releases/9014914",
+        "title": "Timeless",
+        "id": 9014914,
+        "year": 1995,
+        "artists": ["Goldie"]
+    }
+]
